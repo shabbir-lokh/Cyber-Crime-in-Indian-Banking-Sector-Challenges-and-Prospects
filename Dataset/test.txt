@@ -1,0 +1,2 @@
+Transaction_Amount,Transaction_Type,Fraudulent,Device_Used,Location,Bank_Name,Challenges,Prospects
+20000,1,0,1,1,1,12,17
